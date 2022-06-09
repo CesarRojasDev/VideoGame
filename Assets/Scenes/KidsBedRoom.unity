@@ -309,7 +309,7 @@ GameObject:
   m_Component:
   - component: {fileID: 246197504}
   m_Layer: 0
-  m_Name: PlayerParent
+  m_Name: entyerParent
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1318,7 +1318,7 @@ GameObject:
   - component: {fileID: 1205889127}
   - component: {fileID: 1205889126}
   m_Layer: 0
-  m_Name: Grid
+  m_Name: KidsBedRoom
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5745,6 +5745,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 8909535177546732892, guid: 1730427d1c6467c4ea2aa14f39c81231, type: 3}
+      propertyPath: sceneDependencies.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8909535177546732892, guid: 1730427d1c6467c4ea2aa14f39c81231, type: 3}
+      propertyPath: sceneDependencies.Array.data[0]
+      value: 
+      objectReference: {fileID: 11400000, guid: 3e10dc819ab0c004cbe42a4eac2897ae, type: 2}
     - target: {fileID: 8909535177546732893, guid: 1730427d1c6467c4ea2aa14f39c81231, type: 3}
       propertyPath: m_RootOrder
       value: 4
