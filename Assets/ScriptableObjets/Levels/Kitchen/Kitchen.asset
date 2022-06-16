@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c8a29ba9baac22248928592249d7b3db, type: 3}
   m_Name: Kitchen
   m_EditorClassIdentifier: 
-  sceneName: 
+  sceneName: Kitchen
