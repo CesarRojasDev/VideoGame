@@ -290,6 +290,7 @@ MonoBehaviour:
   disabledStates:
   - {fileID: 11400000, guid: f244159c660e0a74a84b4dd4640ea7af, type: 2}
   - {fileID: 11400000, guid: 664eb30262959ae41b1148e906b4115a, type: 2}
+  - {fileID: 11400000, guid: 22587358eb83f114193dbbcc0119759c, type: 2}
   onMainMenuState:
     m_PersistentCalls:
       m_Calls: []
