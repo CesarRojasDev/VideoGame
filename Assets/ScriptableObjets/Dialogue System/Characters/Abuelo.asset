@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 51e84389246e9ce4ab1c33fa75c627dc, type: 3}
-  m_Name: GrandFather
+  m_Name: Abuelo
   m_EditorClassIdentifier: 
-  fullname: GrandFather
+  fullname: Abuelo
   portrait: {fileID: 1404248521807868572, guid: 45df23be6894146ec9566267bcfdddd0, type: 3}

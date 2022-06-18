@@ -16,6 +16,6 @@ MonoBehaviour:
   rightCharacter: {fileID: 11400000, guid: 26ee594e29a20df4e977da47f15e2245, type: 2}
   sentences:
   - character: {fileID: 11400000, guid: 8b9be28fbc93a9e45bab622fd4e799f2, type: 2}
-    text: Hola abuerlo!!
+    text: Hola abuelo!!
   - character: {fileID: 11400000, guid: 26ee594e29a20df4e977da47f15e2245, type: 2}
     text: Ahorra la luz apagando los focos que no utilices
