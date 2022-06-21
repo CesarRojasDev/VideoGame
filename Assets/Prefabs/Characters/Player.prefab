@@ -80,6 +80,7 @@ GameObject:
   - component: {fileID: 2022546535921273716}
   - component: {fileID: 2022546535921273717}
   - component: {fileID: 4029701621071881883}
+  - component: {fileID: 51243888881848942}
   m_Layer: 6
   m_Name: Player
   m_TagString: Player
@@ -309,6 +310,14 @@ MonoBehaviour:
   onCombatState:
     m_PersistentCalls:
       m_Calls: []
+--- !u!81 &51243888881848942
+AudioListener:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2022546535921273726}
+  m_Enabled: 1
 --- !u!1 &2022546536268183031
 GameObject:
   m_ObjectHideFlags: 0
@@ -359,7 +368,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
