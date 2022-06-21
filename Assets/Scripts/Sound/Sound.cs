@@ -4,14 +4,19 @@ using UnityEngine;
 
 public class Sound : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public AudioClip audio;
+
     void Start()
     {
-        
+        GetComponent<AudioSource>().playOnAwake = false;
+        GetComponent<AudioSource>().clip = audio;
     }
 
-    // Update is called once per frame
-    void Update()
+    void OnCollisionEnter ()  //Plays Sound Whenever collision detected
+     {
+         GetComponent<AudioSource>().Play();
+       }
+void Update()
     {
         
     }
