@@ -7313,7 +7313,7 @@ AudioSource:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2117323143}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: eb50ae4393eff6045bce387e13552be5, type: 3}
@@ -8185,7 +8185,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8909535177546732892, guid: 1730427d1c6467c4ea2aa14f39c81231, type: 3}
       propertyPath: sceneDependencies.Array.size
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 8909535177546732892, guid: 1730427d1c6467c4ea2aa14f39c81231, type: 3}
       propertyPath: sceneDependencies.Array.data[0]
@@ -8195,6 +8195,10 @@ PrefabInstance:
       propertyPath: sceneDependencies.Array.data[1]
       value: 
       objectReference: {fileID: 11400000, guid: b141fe1a37a595642bcc76db24b63433, type: 2}
+    - target: {fileID: 8909535177546732892, guid: 1730427d1c6467c4ea2aa14f39c81231, type: 3}
+      propertyPath: sceneDependencies.Array.data[2]
+      value: 
+      objectReference: {fileID: 11400000, guid: 9276ce3ce888d054faf300fc1c643879, type: 2}
     - target: {fileID: 8909535177546732893, guid: 1730427d1c6467c4ea2aa14f39c81231, type: 3}
       propertyPath: m_RootOrder
       value: 2

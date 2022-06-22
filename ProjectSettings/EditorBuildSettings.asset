@@ -15,6 +15,9 @@ EditorBuildSettings:
     path: Assets/Scenes/GamePlay.unity
     guid: 28bb9fa945b760d4cbee9ee55ce20134
   - enabled: 1
+    path: Assets/Scenes/Audio.unity
+    guid: abcba2d0e2ea56e48b2dc9296ab97358
+  - enabled: 1
     path: Assets/Scenes/Kitchen.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
