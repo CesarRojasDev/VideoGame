@@ -23,4 +23,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/KidsBedRoom.unity
     guid: 662ef6d0dc38b264ea607cb27d9095e8
+  - enabled: 1
+    path: Assets/Scenes/Levels/1/Cuarto-Callejon.unity
+    guid: dd2e931efce884a4da4366803ea331a0
+  - enabled: 1
+    path: Assets/Scenes/Levels/2/CuartoEstudio-Cochera.unity
+    guid: d701b2f80e053ad4fb1684bb8f16a817
+  - enabled: 1
+    path: "Assets/Scenes/Levels/3/Comedor-Ba\xF1o.unity"
+    guid: 82f44f87cb5f72c4cb8c123e762b282f
   m_configObjects: {}

@@ -511,7 +511,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 53c16e8f9e3bfac48b67c71d981c8f01, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneToLoad: {fileID: 11400000, guid: 0c8f653276ea6d54a9ab0753b15f9cfb, type: 2}
+  sceneToLoad: {fileID: 11400000, guid: 11ba44dd77c0ee2458af365427de7369, type: 2}
   levelEntrance: {fileID: 0}
   loadingScreen: 1
   playerPath: {fileID: 11400000, guid: 95c7732fbceb8c143bbfdf25a3aaaeb5, type: 2}
