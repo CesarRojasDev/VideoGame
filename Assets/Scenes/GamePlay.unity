@@ -2363,6 +2363,38 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2603346013825833824, guid: f37ef62713ee80e4c96aecba5b04e8fe, type: 3}
+      propertyPath: m_fontSize
+      value: 80
+      objectReference: {fileID: 0}
+    - target: {fileID: 2603346013825833824, guid: f37ef62713ee80e4c96aecba5b04e8fe, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2603346013825833824, guid: f37ef62713ee80e4c96aecba5b04e8fe, type: 3}
+      propertyPath: m_fontColor.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2603346013825833824, guid: f37ef62713ee80e4c96aecba5b04e8fe, type: 3}
+      propertyPath: m_fontColor.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2603346013825833824, guid: f37ef62713ee80e4c96aecba5b04e8fe, type: 3}
+      propertyPath: m_fontColor.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2603346013825833824, guid: f37ef62713ee80e4c96aecba5b04e8fe, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 80
+      objectReference: {fileID: 0}
+    - target: {fileID: 2603346013825833824, guid: f37ef62713ee80e4c96aecba5b04e8fe, type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4278190080
+      objectReference: {fileID: 0}
+    - target: {fileID: 2603346013825833825, guid: f37ef62713ee80e4c96aecba5b04e8fe, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 143.74872
+      objectReference: {fileID: 0}
     - target: {fileID: 2603346014531352330, guid: f37ef62713ee80e4c96aecba5b04e8fe, type: 3}
       propertyPath: m_Text
       value: 
@@ -2471,6 +2503,10 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 2603346015631388428, guid: f37ef62713ee80e4c96aecba5b04e8fe, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: c1a3e77ead346254fb6c7b706fcee9e0, type: 3}
     - target: {fileID: 2603346015725375310, guid: f37ef62713ee80e4c96aecba5b04e8fe, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 523
@@ -2490,6 +2526,10 @@ PrefabInstance:
     - target: {fileID: 2603346015725375345, guid: f37ef62713ee80e4c96aecba5b04e8fe, type: 3}
       propertyPath: m_Color.r
       value: 0.19824673
+      objectReference: {fileID: 0}
+    - target: {fileID: 4279623076311967890, guid: f37ef62713ee80e4c96aecba5b04e8fe, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4386286596804556954, guid: f37ef62713ee80e4c96aecba5b04e8fe, type: 3}
       propertyPath: ui
@@ -2527,6 +2567,18 @@ PrefabInstance:
       propertyPath: rightCharacterPortrait
       value: 
       objectReference: {fileID: 651753922}
+    - target: {fileID: 7222518256375169436, guid: f37ef62713ee80e4c96aecba5b04e8fe, type: 3}
+      propertyPath: m_UiScaleMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7222518256375169436, guid: f37ef62713ee80e4c96aecba5b04e8fe, type: 3}
+      propertyPath: m_ReferenceResolution.x
+      value: 1920
+      objectReference: {fileID: 0}
+    - target: {fileID: 7222518256375169436, guid: f37ef62713ee80e4c96aecba5b04e8fe, type: 3}
+      propertyPath: m_ReferenceResolution.y
+      value: 1080
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f37ef62713ee80e4c96aecba5b04e8fe, type: 3}
 --- !u!114 &2603346013908906962 stripped
