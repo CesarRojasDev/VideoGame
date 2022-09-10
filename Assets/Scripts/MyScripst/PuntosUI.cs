@@ -12,7 +12,6 @@ public class PuntosUI : MonoBehaviour
 
     void Update()
     {
-        Debug.Log(ControladorPuntos.Instance.returnPuntos());
         textMesh.text =ControladorPuntos.Instance.returnPuntos().ToString();
     }
 

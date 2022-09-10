@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Interactable
   - LoadingUI
+  - Reward
   layers:
   - Default
   - TransparentFX
