@@ -35,4 +35,7 @@ EditorBuildSettings:
   - enabled: 1
     path: "Assets/Scenes/Levels/3/Comedor-Ba\xF1o.unity"
     guid: 82f44f87cb5f72c4cb8c123e762b282f
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: 5cb6c33e025c3b042b9396f2bcc95eb8
   m_configObjects: {}
